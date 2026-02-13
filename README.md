@@ -1,2 +1,3 @@
-My Github repository for test <br>
+My Github repository for testing purposes
+<br>
 Author - Ashton
